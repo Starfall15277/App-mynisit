@@ -1,0 +1,4 @@
+Email : valintron.v@ku.th
+Pass : yalocco123star1
+
+สามารถเพิ่มหน้าสมัครเข้าไปในหน้า login ได้จาก Code หย้า sign_up_page.dart
